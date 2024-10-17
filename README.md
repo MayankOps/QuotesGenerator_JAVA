@@ -1,5 +1,7 @@
 # 🎉 Random Quote Generator with Login System In JAVA 🎉
 
+![image](https://github.com/user-attachments/assets/db39edf8-e141-422b-b63a-0cc9ca70f2ad)
+
 ## 📜 Project Overview
 Welcome to the **Random Quote Generator**! This is a **Java Swing** project that combines a simple login system with a fun random quote generator! 🖥️💡
 
